@@ -19,7 +19,7 @@
 
 ## Demo Video & Scrrenshots 
 
-![Demo Video](./assets_readme/recording.mov)
+
 
 ####Neon Console
 ![Neon Console](./assets_readme/neon.png)
