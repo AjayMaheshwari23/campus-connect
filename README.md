@@ -19,7 +19,16 @@
 
 ## Demo Video & Screenshots 
 
-![Demo Video](./assets_readme/recording.mp4)
+For Video Please Click on this [link]([https://github.com/user/repo/blob/branch/other_file.md](https://drive.google.com/file/d/1FhpE5Q3l8LPVoTQu4AN4qzMtLHo8IK8w/view?usp=sharing))
+
+#### Light Mode
+![Light Mode](./assets_readme/light.png)
+
+#### Dark Mode
+![dark Mode](./assets_readme/dark.png)
+
+#### Others
+![Other Screens](./assets_readme/screens.png)
 
 #### Neon Console
 ![Neon Console](./assets_readme/neon.png)
