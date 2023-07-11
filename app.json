@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "campus-connect-ts",
+    "slug": "campus-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.campusconnect.googlesignin"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.campusconnect.googlesignin"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "myGoogleApp",
+    "extra": {
+      "eas": {
+        "projectId": "efe2b357-fb6d-4afc-9656-fb628dfb390a"
+      }
+    },
+    "owner": "unknown_ajay"
+  }
+}
