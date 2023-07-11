@@ -19,7 +19,8 @@
 
 ## Demo Video & Screenshots 
 
-For Video Please Click on this [link]([https://github.com/user/repo/blob/branch/other_file.md](https://drive.google.com/file/d/1FhpE5Q3l8LPVoTQu4AN4qzMtLHo8IK8w/view?usp=sharing))
+For Video please click on this <a href="https://drive.google.com/file/d/1FhpE5Q3l8LPVoTQu4AN4qzMtLHo8IK8w/view?usp=sharing">link
+
 
 #### Light Mode
 ![Light Mode](./assets_readme/light.png)
