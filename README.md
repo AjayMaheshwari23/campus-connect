@@ -17,17 +17,17 @@
 - **Dark mode**: The app supports a dark mode interface, allowing users to switch to a darker color scheme for improved readability in low-light environments.
 
 
-## Demo Video & Scrrenshots 
+## Demo Video & Screenshots 
 
 ![Demo Video](./assets_readme/recording.mp4)
 
-##Neon Console
+#### Neon Console
 ![Neon Console](./assets_readme/neon.png)
 
-##Hasura Console
+#### Hasura Console
 ![Hasura Console](./assets_readme/hasura.png)
 
-##Schema
+#### Schema
 ![Schema Image](./assets_readme/schema.png)
 
 
